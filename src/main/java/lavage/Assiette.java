@@ -18,4 +18,4 @@ public class Assiette {
 		return "assiette n°" + numeroAssiette;
 	}
 
-}
+} 

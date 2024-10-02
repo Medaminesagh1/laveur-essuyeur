@@ -1,9 +1,9 @@
 package lavage;
 
 public class Assiette {
-	// On compte le nombre total d'assiettes
+	// On compte le nombre total d'assiettes :
 	private static int nombreAssiettes = 0;
-    // Chaque assiette a un numéro
+    // Chaque assiette a un numéro :
 	private final int numeroAssiette;
 
 	public Assiette() {
